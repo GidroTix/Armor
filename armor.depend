@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1713202520 source:c:\users\morge\desktop\коды\armor\main.cpp
+	<iostream>
+
+1713202498 c:\users\morge\desktop\коды\armor\main.h
+	<string>
+
+1713202522 source:c:\users\admin\desktop\armor\main.cpp
+	<iostream>
+
+1714093015 source:c:\users\morge\desktop\броня\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	"main.h"
+
+1714092830 source:c:\users\morge\desktop\броня\armors.cpp
+	<iostream>
+	"main.h"
+
+1714094626 c:\users\morge\desktop\броня\main.h
+	<string>
+	<vector>
+	<list>
+	"Patterns.h"
+
+1714082805 c:\users\morge\desktop\броня\patterns.h
+
+1714092830 source:c:\users\admin\desktop\броня1\armors.cpp
+	<iostream>
+	"main.h"
+
+1714117362 c:\users\admin\desktop\броня1\main.h
+	<string>
+	<vector>
+	<list>
+	"Patterns.h"
+
+1714082805 c:\users\admin\desktop\броня1\patterns.h
+
+1714115023 source:c:\users\admin\desktop\броня1\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	"main.h"
+
+1714092830 source:c:\users\admin\desktop\armor1\armors.cpp
+	<iostream>
+	"main.h"
+
+1714119478 c:\users\admin\desktop\armor1\main.h
+	<string>
+	<vector>
+	<list>
+	"Patterns.h"
+
+1714082805 c:\users\admin\desktop\armor1\patterns.h
+
+1714134496 source:c:\users\admin\desktop\armor1\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	"main.h"
+
+1714092830 source:c:\users\morge\desktop\armor1\armors.cpp
+	<iostream>
+	"main.h"
+
+1714119478 c:\users\morge\desktop\armor1\main.h
+	<string>
+	<vector>
+	<list>
+	"Patterns.h"
+
+1714082805 c:\users\morge\desktop\armor1\patterns.h
+
+1714134725 source:c:\users\morge\desktop\armor1\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	"main.h"
+
